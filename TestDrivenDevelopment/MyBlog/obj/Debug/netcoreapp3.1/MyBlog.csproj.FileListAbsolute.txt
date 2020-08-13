@@ -1,0 +1,10 @@
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\bin\Debug\netcoreapp3.1\MyBlog.exe
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.csprojAssemblyReference.cache
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfoInputs.cache
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.AssemblyInfo.cs
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\MyBlog.RazorTargetAssemblyInfo.cache
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.Manifest.cache
+C:\Users\ShaumC\source\repos\TestDrivenDevelopment\MyBlog\obj\Debug\netcoreapp3.1\staticwebassets\MyBlog.StaticWebAssets.xml

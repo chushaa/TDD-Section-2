@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bbkatKV5xEuiIYUvXxw6NCOS0fTJKoLIa+pE/edO8sjbE6d1iWevXfP3Knb/f/fkxtJ233tlrdtX9AOcDvIGXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShaumC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ShaumC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
