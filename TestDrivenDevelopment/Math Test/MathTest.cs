@@ -1,4 +1,5 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using MyMath;
 
 namespace MathTests
 {
@@ -6,8 +7,9 @@ namespace MathTests
     public class MathTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void BasicRooterTest()
         {
+            Rooter rooter = new Rooter();
         }
     }
 }

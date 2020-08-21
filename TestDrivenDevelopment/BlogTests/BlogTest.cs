@@ -6,7 +6,7 @@ namespace BlogTests
     public class BlogTest
     {
         [Fact]
-        public void Test1()
+        public void GetTest_ReturnsListsOfPosts()
         {
 
         }

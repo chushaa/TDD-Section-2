@@ -2,7 +2,8 @@
 
 namespace MyMath
 {
-    public class MyMath
+    public class Rooter
     {
+        
     }
 }
