@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj": {}
+    "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj": {
+    "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
+        "projectUniqueName": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
         "projectName": "MyBlog",
-        "projectPath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
+        "projectPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
         "packagesPath": "C:\\Users\\ShaumC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\obj\\",
+        "outputPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fAT9TgaZDBdmzwst+ggns3zuX5d48pjQc7S/3BMBDLv80cr2eCP6NHUpebS8rmX4shiIVaLrGN5vymqWQWOZKw==",
+  "dgSpecHash": "pf3lDhPWvToXi4NhPuCPMQ0eV6hh59jyrO7ONnHEgpb7J8GCGJC2BLx9+LZqye27JG+Fe5Us6TASd4p8G3V45A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\BlogTests\\BlogTests.csproj",
+  "projectFilePath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\BlogTests\\BlogTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShaumC\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ShaumC\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",

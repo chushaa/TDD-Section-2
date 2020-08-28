@@ -5738,11 +5738,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\Math Test\\MathTests.csproj",
+      "projectUniqueName": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\Math Test\\MathTests.csproj",
       "projectName": "MathTests",
-      "projectPath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\Math Test\\MathTests.csproj",
+      "projectPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\Math Test\\MathTests.csproj",
       "packagesPath": "C:\\Users\\ShaumC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\Math Test\\obj\\",
+      "outputPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\Math Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -5762,8 +5762,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {
-              "projectPath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj"
+            "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {
+              "projectPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj"
             }
           }
         }

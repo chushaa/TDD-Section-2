@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kv1lM0F5g36/J1np0BGfdKddjcx2veJxI32kiK/nCszWAzrT51GzyuqFXdh1DJzF+1bie2jBoYUkd2r8ZvVUmw==",
+  "dgSpecHash": "VQcBl8BSe0itt5kF5/N9b46ipXJVxtA1RKl5L25IdZxsLJWUYrJ/csdO6fz1JxMZhVDp+svocdNMy0NWWuFjpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ShaumC\\source\\repos\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
+  "projectFilePath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ShaumC\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ShaumC\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
