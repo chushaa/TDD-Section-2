@@ -1,0 +1,9 @@
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\netstandard2.0\MyMath.deps.json
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\netstandard2.0\MyMath.dll
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\bin\Debug\netstandard2.0\MyMath.pdb
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.csprojAssemblyReference.cache
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.AssemblyInfoInputs.cache
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.AssemblyInfo.cs
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.csproj.CoreCompileInputs.cache
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.dll
+C:\TDD-Section-2\TDD-Section-2\TestDrivenDevelopment\TestDrivenDevelopment\obj\Debug\netstandard2.0\MyMath.pdb
