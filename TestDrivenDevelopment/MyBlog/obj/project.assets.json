@@ -6684,25 +6684,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ShaumC\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\eduardl\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
+      "projectUniqueName": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
       "projectName": "MyBlog",
-      "projectPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
-      "packagesPath": "C:\\Users\\ShaumC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\MyBlog\\obj\\",
+      "projectPath": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\MyBlog\\MyBlog.csproj",
+      "packagesPath": "C:\\Users\\eduardl\\.nuget\\packages\\",
+      "outputPath": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\MyBlog\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ShaumC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\eduardl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6752,7 +6747,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

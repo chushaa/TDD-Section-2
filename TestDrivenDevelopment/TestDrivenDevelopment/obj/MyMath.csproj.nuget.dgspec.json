@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {}
+    "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {
+    "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj",
+        "projectUniqueName": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj",
         "projectName": "MyMath",
-        "projectPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj",
-        "packagesPath": "C:\\Users\\ShaumC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ShaumC\\Desktop\\TDD\\TestDrivenDevelopment\\TestDrivenDevelopment\\obj\\",
+        "projectPath": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\TestDrivenDevelopment\\MyMath.csproj",
+        "packagesPath": "C:\\Users\\eduardl\\.nuget\\packages\\",
+        "outputPath": "C:\\TDD-Section-2\\TDD-Section-2\\TestDrivenDevelopment\\TestDrivenDevelopment\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ShaumC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\eduardl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.0"
@@ -59,7 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
