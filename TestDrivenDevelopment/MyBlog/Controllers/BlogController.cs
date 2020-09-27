@@ -12,6 +12,16 @@ namespace MyBlog.Controllers
     [ApiController]
     public class BlogController : ControllerBase
     {
-        
+        private readonly List<Post> _posts;
+
+        public BlogController(List<Post> post)
+        {
+            _posts = post;
+        }
+
+        public ActionResult<List<Post>> Get()
+        {
+            return _posts.ToList();
+        }
     }
 }
