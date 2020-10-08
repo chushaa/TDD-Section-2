@@ -10,6 +10,10 @@ namespace MathTests
         public void BasicRooterTest()
         {
             Rooter rooter = new Rooter();
+            double expectedResult = 2.0;
+            double input = expectedResult * expectedResult;
+            double actualResult = rooter.SquareRoot(input);
+            Assert.AreEqual(expectedResult, actualResult,delta: expectedResult/100);
         }
     }
 }
